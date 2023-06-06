@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "834301331332",
+    "project_id": "d-locker-ee29a",
+    "storage_bucket": "d-locker-ee29a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834301331332:android:00a0875c421c6fd64f3fd1",
+        "android_client_info": {
+          "package_name": "com.example.d_locker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834301331332-ai8qbggqjano6unimlhfg4pnlpfd28sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYmjQuRH7FoLWOBc0qbU4TDv-yvZzh45M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834301331332-ai8qbggqjano6unimlhfg4pnlpfd28sd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
